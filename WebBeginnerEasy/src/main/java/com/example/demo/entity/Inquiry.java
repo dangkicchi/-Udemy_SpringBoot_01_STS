@@ -43,5 +43,4 @@ public class Inquiry {
 	public void setCreated(LocalDateTime created) {
 		this.created = created;
 	}
-	
 }

@@ -51,5 +51,4 @@ public class Survey {
 	public void setCreated(LocalDateTime created) {
 		this.created = created;
 	}
-
 }
