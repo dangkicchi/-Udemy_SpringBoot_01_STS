@@ -37,5 +37,4 @@ public class SampleController {
 		model.addAttribute("email", map.get("email"));
 		return "test";
 	}
-
 }
